@@ -1,4 +1,4 @@
-# A list of C Quests I've done for my studies
+# A list of C Quests I have passed for my studies
 
 ## Quest01
 
