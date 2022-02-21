@@ -2,7 +2,7 @@
 
 ## Exercise1
 
-| Quest01          | My Initializer              |
+| Quest02          | My Initializer              |
 |:-----------------|---------------------------- |
 | Submit Directory | ex00                        |
 | Submit file      | my_initializer.c            |
@@ -23,7 +23,7 @@ Example 00 (In C)
 
 ## Exercise2
 
-| Quest01          | My Swap                     |
+| Quest02          | My Swap                     |
 |:-----------------|---------------------------- |
 | Submit Directory | ex01                        |
 | Submit file      | my_swap.c                   |
@@ -44,7 +44,7 @@ Example 00 (In C)
 ```
 ## Exercise3
 
-| Quest01          | My Strlen                   |
+| Quest02          | My Strlen                   |
 |:-----------------|---------------------------- |
 | Submit Directory | ex02                        |
 | Submit file      | my_strlen.c                 |
@@ -70,7 +70,7 @@ Output: 17
 
 ## Exercise4
 
-| Quest01          | My Putstr                   |
+| Quest02          | My Putstr                   |
 |:-----------------|---------------------------- |
 | Submit Directory | ex03                        |
 | Submit file      | my_putstr.c                 |
@@ -100,7 +100,7 @@ Return Value: nil
 ```
 ## Exercise5
 
-| Quest01          | My Add                      |
+| Quest02          | My Add                      |
 |:-----------------|---------------------------- |
 | Submit Directory | ex04                        |
 | Submit file      | my_add.c                    |
@@ -130,7 +130,7 @@ Return Value: 0
 
 ## Exercise6
 
-| Quest01          | My Sub                      |
+| Quest02          | My Sub                      |
 |:-----------------|---------------------------- |
 | Submit Directory | ex05                        |
 | Submit file      | my_sub.c                    |
@@ -159,7 +159,7 @@ Return Value: -20
 
 ## Exercise7
 
-| Quest01          | My Mult                     |
+| Quest02          | My Mult                     |
 |:-----------------|---------------------------- |
 | Submit Directory | ex06                        |
 | Submit file      | my_mult.c                   |
@@ -189,7 +189,7 @@ Return Value: -100
 
 ## Exercise8
 
-| Quest01          | My String Formatting        |
+| Quest02          | My String Formatting        |
 |:-----------------|---------------------------- |
 | Submit Directory | ex07                        |
 | Submit file      | my_string_formatting.c      |
@@ -224,7 +224,7 @@ Return Value: nil
 
 ## Exercise9
 
-| Quest01          | My String Index             |
+| Quest02          | My String Index             |
 |:-----------------|---------------------------- |
 | Submit Directory | ex08                        |
 | Submit file      | my_string_index.c           |
@@ -251,7 +251,7 @@ Return Value: -1
 
 ## Exercise10
 
-| Quest01          | My Upcase                   |
+| Quest02          | My Upcase                   |
 |:-----------------|---------------------------- |
 | Submit Directory | ex09                        |
 | Submit file      | my_upcase.c                 |
@@ -273,7 +273,7 @@ Return Value: ""
 ```
 ## Exercise11
 
-| Quest01          | My Downcase                 |
+| Quest02          | My Downcase                 |
 |:-----------------|---------------------------- |
 | Submit Directory | ex10                        |
 | Submit file      | my_downcase.c               |
